@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @christian-mc, an avid text based game player and developer, I also dabble in the world of investment and cryptocurrency development!
+- 👀 I’m interested in learning more about the inner workings of blockchain technology, creating my own blockchain and NFT system based on said Blockchain
+- 🌱 I’m currently learning Solidity development, Flask, Python3, C++, C#, Java, Laravel, Node.JS, Vue.JS, React
+- 💞️ I’m looking to collaborate on open source projects pertaining to Blockchain development, or Text based gaming.
+- 📫 How to reach me, you can reach me via Discord Maddest#9665
